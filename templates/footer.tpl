@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="CSS/IndexStyle.css">
+<link rel="stylesheet" href="css/IndexStyle.css">
 <footer>
 
     <h1>{$marca}</h1>

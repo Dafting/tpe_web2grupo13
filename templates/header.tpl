@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="CSS/IndexStyle.css">
+<link rel="stylesheet" href="css/IndexStyle.css">
 <header>
 <div class="titulo">
     <img src="images/J5PSG.png" width="130" height="100">
