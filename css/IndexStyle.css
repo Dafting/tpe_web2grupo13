@@ -1,0 +1,11 @@
+header,
+footer {
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 10px solid darkred;
+    justify-content: center;
+    background-color: white;
+    border-radius: 5px;
+}
